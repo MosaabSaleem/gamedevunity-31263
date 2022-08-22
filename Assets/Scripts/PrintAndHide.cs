@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PrintAndHide : MonoBehaviour
 {
-    private int i = 0;
+    private int i = 3;
     public GameObject g;
     public Renderer rend;
     // Start is called before the first frame update
